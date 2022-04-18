@@ -1,0 +1,22 @@
+{
+  "name": "ch-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "html": "^1.0.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.0",
+    "sqlite": "^4.0.25",
+    "sqlite3": "^5.0.3"
+  }
+}
